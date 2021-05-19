@@ -1,0 +1,103 @@
+{
+    "colorbar": {
+        "module_options": ["C","D","F","G","I","L","M","N","Q","S","W","Z"],
+        "module_needs": [],
+        "module_common": ["B","J","R","U","V","X","Y","p","t"],
+        "module_other": [],
+        "C": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {},
+            "other-modules": []
+        },
+        "D": {
+            "long-option": "",
+            "directives": {
+                "g": "",
+                "j": "",
+                "J": "",
+                "n": "",
+                "x": ""
+            },
+            "modifiers": {
+                "w": "",
+                "j": "",
+                "o": "",
+                "s": "",
+                "t": ""
+
+            },
+            "other-modules": []
+        },
+        "F": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {
+                "c": "",
+                "g": "",
+                "i": "",
+                "p": "",
+                "r": "",
+                "s": ""
+            },
+            "other-modules": []
+        },
+        "G": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {},
+            "other-modules": []
+        },
+        "I": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {},
+            "other-modules": []
+        },
+        "L": {
+            "long-option": "",
+            "directives": {
+                "i": ""
+            },
+            "modifiers": {},
+            "other-modules": []
+        },
+        "M": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {},
+            "other-modules": []
+        },
+        "N": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {},
+            "other-modules": []
+        },
+        "Q": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {},
+            "other-modules": []
+        },
+        "S": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {
+                "a": "",
+                "c": "",
+                "n": "",
+                "s": "",
+                "x": "",
+                "y": ""
+            },
+            "other-modules": []
+        },
+        "Z": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {},
+            "other-modules": []
+        }
+    }
+}

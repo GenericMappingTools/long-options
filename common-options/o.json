@@ -1,0 +1,53 @@
+{
+    "O": {
+        "long-option": "",
+        "directives": {},
+        "modifiers": {},
+        "other-modules": []
+    },
+    "o": {
+        "long-option": "",
+        "directives": {
+            "t": ""
+        },
+        "modifiers": {},
+        "other-modules": [
+            "blockmean",
+            "blockmedian",
+            "blockmode",
+            "filter1d",
+            "fitcircle",
+            "gmtconnect",
+            "gmtconvert",
+            "gmtinfo",
+            "gmtmath",
+            "gmtregress",
+            "gmtselect",
+            "gmtsimplify",
+            "gmtspatial",
+            "gmtvector",
+            "grd2cpt",
+            "grd2xyz",
+            "grdinfo",
+            "grdinterpolate",
+            "grdtrack",
+            "grdvolume",
+            "greenspline",
+            "mapproject",
+            "project",
+            "sample1d",
+            "solar",
+            "gpsgridder",
+            "gshhg",
+            "mgd77magref",
+            "gmtflexure",
+            "talwani2d",
+            "talwani3d",
+            "backtracker",
+            "gmtpmodeler",
+            "hotspotter",
+            "polespotter",
+            "rotsmoother"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "begin": {
+        "module_options": ["C"],
+        "module_needs": [],
+        "module_common": ["V"],
+        "module_other": ["prefix","formats","options"],
+        "C": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {},
+            "other-modules": []
+        }
+    }
+}

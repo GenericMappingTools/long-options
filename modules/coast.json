@@ -1,0 +1,167 @@
+{
+    "coast": {
+        "module_options": ["A","C","D","E","F","G","I","L","M","N","Q","S","Td","Tm"],
+        "module_needs": ["J","R"],
+        "module_common": ["B","J","K","O","P","R","U","V","X","Y","b","p","t"],
+        "module_other": [],
+        "A": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {
+                "a": "",
+                "r": "",
+                "l": "",
+                "p": ""
+            },
+            "other-modules": []
+        },
+        "C": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {
+                "l": "",
+                "r": ""
+            },
+            "other-modules": []
+        },
+        "D": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {
+                "f": ""
+            },
+            "other-modules": []
+        },
+        "E": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {
+                "l": "",
+                "L": "",
+                "g": "",
+                "p": "",
+                "z": ""
+            },
+            "other-modules": []
+        },
+        "F": {
+            "long-option": "",
+            "directives": {
+                "l": "",
+                "t": ""
+            },
+            "modifiers": {
+                "c": "",
+                "g": "",
+                "i": "",
+                "p": "",
+                "r": "",
+                "s": ""
+            },
+            "other-modules": []
+        },
+        "G": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {},
+            "other-modules": []
+        },
+        "I": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {},
+            "other-modules": []
+        },
+        "L": {
+            "long-option": "",
+            "directives": {
+                "g": "",
+                "j": "",
+                "J": "",
+                "n": "",
+                "x": ""
+            },
+            "modifiers": {
+                "w": "",
+                "a": "",
+                "c": "",
+                "f": "",
+                "j": "",
+                "l": "",
+                "o": "",
+                "u": "",
+                "v": ""
+            },
+            "other-modules": []
+        },
+        "M": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {},
+            "other-modules": []
+        },
+        "N": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {},
+            "other-modules": []
+        },
+        "Q": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {},
+            "other-modules": []
+        },
+        "S": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {},
+            "other-modules": []
+        },
+        "Td": {
+            "long-option": "",
+            "directives": {
+                "g": "",
+                "j": "",
+                "J": "",
+                "n": "",
+                "x": ""
+            },
+            "modifiers": {
+                "w": "",
+                "f": "",
+                "j": "",
+                "l": "",
+                "o": ""
+            },
+            "other-modules": []
+        },
+        "Tm": {
+            "long-option": "",
+            "directives": {
+                "g": "",
+                "j": "",
+                "J": "",
+                "n": "",
+                "x": ""
+            },
+            "modifiers": {
+                "w": "",
+                "d": "",
+                "i": "",
+                "j": "",
+                "l": "",
+                "p": "",
+                "t": "",
+                "o": ""
+            },
+            "other-modules": []
+        },
+        "W": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {},
+            "other-modules": []
+        }
+    }
+}

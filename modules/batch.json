@@ -1,0 +1,69 @@
+{
+    "batch": {
+        "module_options": ["I","M","N","Q","Sb","Sf","T","W","Z"],
+        "module_needs": ["N","T"],
+        "module_common": ["V","x"],
+        "module_other": ["mainscript"],
+        "I": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {},
+            "other-modules": []
+        },
+        "M": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {},
+            "other-modules": []
+        },
+        "N": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {},
+            "other-modules": []
+        },
+        "Q": {
+            "long-option": "",
+            "directives": {
+                "s": ""
+            },
+            "modifiers": {},
+            "other-modules": []
+        },
+        "Sb": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {},
+            "other-modules": []
+        },
+        "Sf": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {},
+            "other-modules": []
+        },
+        "T": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {
+                "n": "",
+                "p": "",
+                "s": "",
+                "w": ""
+            },
+            "other-modules": []
+        },
+        "W": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {},
+            "other-modules": []
+        },
+        "Z": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {},
+            "other-modules": []
+        }
+    }
+}

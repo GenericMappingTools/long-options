@@ -1,0 +1,21 @@
+{
+    "s": {
+        "long-option": "",
+        "directives": {},
+        "modifiers": {
+            "a": "",
+            "r": ""
+        },
+        "other-modules": [
+            "gmtconvert",
+            "gmtinfo",
+            "gmtmath",
+            "grd2xyz",
+            "grdinterpolate",
+            "grdtrack",
+            "mapproject",
+            "project",
+            "rotsmoother"
+        ]
+    }
+}

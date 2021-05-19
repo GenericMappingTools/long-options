@@ -1,0 +1,126 @@
+{
+    "events": {
+        "module_options": ["T","A","C","D","E","F","G","H","L","M","N","Q","S","W","Z"],
+        "module_needs": ["table","J","R","T"],
+        "module_common": ["J","R","B","U","V","X","Y","bi","di","e","f","h","i","p","qi","w"],
+        "module_other": ["table"],
+        "T": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {},
+            "other-modules": []
+        },
+        "A": {
+            "long-option": "",
+            "directives": {
+                "r": "",
+                "s": ""
+            },
+            "modifiers": {},
+            "other-modules": []
+        },
+        "C": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {},
+            "other-modules": []
+        },
+        "D": {
+            "long-option": "",
+            "directives": {
+                "j": "",
+                "J": ""
+            },
+            "modifiers": {
+                "v": ""
+            },
+            "other-modules": []
+        },
+        "E": {
+            "long-option": "",
+            "directives": {
+                "s": "",
+                "t": ""
+            },
+            "modifiers": {
+                "o": "",
+                "O": "",
+                "r": "",
+                "p": "",
+                "d": "",
+                "f": "",
+                "l": ""
+            },
+            "other-modules": []
+        },
+        "F": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {
+                "a": "",
+                "f": "",
+                "j": "",
+                "r": "",
+                "z": ""
+            },
+            "other-modules": []
+        },
+        "G": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {},
+            "other-modules": []
+        },
+        "H": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {
+                "c": "",
+                "g": "",
+                "p": "",
+                "r": "",
+                "s": ""
+            },
+            "other-modules": []
+        },
+        "M": {
+            "long-option": "",
+            "directives": {
+                "i": "",
+                "s": "",
+                "t": ""
+            },
+            "modifiers": {
+                "c": ""
+            },
+            "other-modules": []
+        },
+        "N": {
+            "long-option": "",
+            "directives": {
+                "c": "",
+                "r": ""
+            },
+            "modifiers": {},
+            "other-modules": []
+        },
+        "Q": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {},
+            "other-modules": []
+        },
+        "S": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {},
+            "other-modules": []
+        },
+        "Z": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {},
+            "other-modules": []
+        }
+    }
+}

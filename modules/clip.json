@@ -1,0 +1,43 @@
+{
+    "clip": {
+        "module_options": ["C","A","N","T","W"],
+        "module_needs": ["J","C","R","table"],
+        "module_common": ["B","J","K","O","P","R","U","V","X","Y","b","d","e","f","g","h","i","p","q","t","x","y"],
+        "module_other": ["table"],
+        "C": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {},
+            "other-modules": []
+        },
+        "A": {
+            "long-option": "",
+            "directives": {
+                "m": "",
+                "p": "",
+                "x": "",
+                "y": ""
+            },
+            "modifiers": {},
+            "other-modules": []
+        },
+        "N": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {},
+            "other-modules": []
+        },
+        "T": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {},
+            "other-modules": []
+        },
+        "W": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {},
+            "other-modules": []
+        }
+    }
+}

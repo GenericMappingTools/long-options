@@ -1,0 +1,8 @@
+{
+    "clear": {
+        "module_options": [],
+        "module_needs": [],
+        "module_common": ["V"],
+        "module_other": ["all","cache","data","geography","sessions","settings"]
+    }
+}

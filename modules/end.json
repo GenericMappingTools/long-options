@@ -1,0 +1,8 @@
+{
+    "end": {
+        "module_options": [],
+        "module_needs": [],
+        "module_common": ["V"],
+        "module_other": ["show"]
+    }
+}

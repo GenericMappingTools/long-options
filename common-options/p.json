@@ -1,0 +1,51 @@
+{
+    "P": {
+        "long-option": "",
+        "directives": {},
+        "modifiers": {},
+        "other-modules": []
+    },
+    "p": {
+        "long-option": "",
+        "directives": {
+            "x": "",
+            "y": "",
+            "z": ""
+        },
+        "modifiers": {
+            "w": "",
+            "v": ""
+        },
+        "other-modules": [
+            "basemap",
+            "clip",
+            "coast",
+            "colorbar",
+            "contour",
+            "events",
+            "grdcontour",
+            "grdimage",
+            "grdvector",
+            "grdview",
+            "histogram",
+            "image",
+            "legend",
+            "mapproject",
+            "mask",
+            "plot",
+            "plot3d",
+            "rose",
+            "solar",
+            "velo",
+            "mgd77track",
+            "segy",
+            "segyz",
+            "coupe",
+            "meca",
+            "sac",
+            "ternary",
+            "text",
+            "wiggle"
+        ]
+    }
+}
