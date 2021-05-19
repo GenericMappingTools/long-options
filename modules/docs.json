@@ -1,10 +1,16 @@
 {
     "docs": {
-        "module_options": [],
-        "module_needs": [],
-        "module_common": [],
-        "module_other": [],
-        "option": {
+        "module_options": ["Q","S"],
+        "module_needs": ["module-name"],
+        "module_common": ["V"],
+        "module_other": ["module-name"],
+        "Q": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {},
+            "other-modules": []
+        },
+        "S": {
             "long-option": "",
             "directives": {},
             "modifiers": {},
