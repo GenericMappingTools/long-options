@@ -1,10 +1,67 @@
 {
     "dimfilter": {
-        "module_options": [],
-        "module_needs": [],
-        "module_common": [],
-        "module_other": [],
-        "option": {
+        "module_options": ["D","F","G","N","L","Q","I","T"],
+        "module_needs": ["ingrid","D","F","N","G"],
+        "module_common": ["R","V","f"],
+        "module_other": ["ingrid"],
+        "D": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {},
+            "other-modules": []
+        },
+        "F": {
+            "long-option": "",
+            "directives": {
+                "xb": "",
+                "xc": "",
+                "xg": "",
+                "xm": "",
+                "xp": ""
+            },
+            "modifiers": {},
+            "other-modules": []
+        },
+        "N": {
+            "long-option": "",
+            "directives": {
+                "xl": "",
+                "xu": "",
+                "xa": "",
+                "xm": "",
+                "xp": ""
+            },
+            "modifiers": {},
+            "other-modules": []
+        },
+        "G": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {},
+            "other-modules": []
+        },
+        "I": {
+            "long-option": "",
+            "directives": {
+                "m": "",
+                "c": ""
+            },
+            "modifiers": {},
+            "other-modules": []
+        },
+        "L": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {},
+            "other-modules": []
+        },
+        "T": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {},
+            "other-modules": []
+        },
+        "Q": {
             "long-option": "",
             "directives": {},
             "modifiers": {},
