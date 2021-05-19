@@ -40,6 +40,8 @@ as the non-common options:
       `"modifiers": {"r": "rectangular", "u": "unit"}`).
     - "other-modules": array containing list of modules that can use the common
       option.
+- `construct-dataframe.py` - a Python script that creates a pandas DataFrame from
+the common-option and modules JSON files.
 # Process for selecting long-options
 1. Create a branch
 2. Edit the .json file for the module in `modules/` to add the proposed
