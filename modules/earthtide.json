@@ -1,13 +1,38 @@
 {
     "earthtide": {
-        "module_options": [],
+        "module_options": ["T","G","C","I","L","S"],
         "module_needs": [],
-        "module_common": [],
+        "module_common": ["R","V","r"],
         "module_other": [],
-        "option": {
+        "C": {
+            "long-option": "",
+            "directives": {
+                "x": "",
+                "e": "",
+                "y": "",
+                "n": "",
+                "z": "",
+                "v": ""
+            },
+            "modifiers": {},
+            "other-modules": []
+        },
+        "I": {
             "long-option": "",
             "directives": {},
-            "modifiers": {},
+            "modifiers": {
+                "e": "",
+                "n": ""
+            },
+            "other-modules": []
+        },
+        "T": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {
+                "i": "",
+                "n": ""
+            },
             "other-modules": []
         }
     }
