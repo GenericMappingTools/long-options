@@ -1,14 +1,8 @@
 {
     "figure": {
         "module_options": [],
-        "module_needs": [],
-        "module_common": [],
-        "module_other": [],
-        "option": {
-            "long-option": "",
-            "directives": {},
-            "modifiers": {},
-            "other-modules": []
-        }
+        "module_needs": ["prefix"],
+        "module_common": ["V"],
+        "module_other": ["prefix","formats","options"]
     }
 }
