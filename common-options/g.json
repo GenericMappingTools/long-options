@@ -1,0 +1,48 @@
+{
+    "g": {
+        "long-option": "",
+        "directives": {
+            "a": "",
+            "x": "",
+            "y": "",
+            "d": "",
+            "X": "",
+            "Y": "",
+            "D": "",
+            "z": ""
+        },
+        "modifiers": {
+            "n": "",
+            "p": ""
+        },
+        "other-modules": [
+            "clip",
+            "filter1d",
+            "fitcircle",
+            "gmtbinstats",
+            "gmtconnect",
+            "gmtconvert",
+            "gmtinfo",
+            "gmtmath",
+            "gmtregress",
+            "gmtselect",
+            "gmtsimplify",
+            "gmtspatial",
+            "gmtsplit",
+            "gmtvector",
+            "grdgdal",
+            "grdinterpolate",
+            "grdmask",
+            "grdtrack",
+            "mapproject",
+            "nearneighbor",
+            "plot",
+            "plot3d",
+            "project",
+            "sample1d",
+            "spectrum1d",
+            "ternary",
+            "wiggle"
+        ]
+    }
+}

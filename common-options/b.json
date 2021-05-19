@@ -1,0 +1,116 @@
+{
+    "B": {
+        "long-option": "",
+        "directives": {
+            "x": "",
+            "y": "",
+            "z": ""
+        },
+        "modifiers": {
+            "b": "",
+            "g": "",
+            "n": "",
+            "o": "",
+            "t": "",
+            "s": ""
+        },
+        "other-modules": [
+            "basemap",
+            "clip",
+            "coast",
+            "colorbar",
+            "contour",
+            "events",
+            "grdcontour",
+            "grdimage",
+            "grdvector",
+            "grdview",
+            "histogram",
+            "image",
+            "legend",
+            "mask",
+            "plot",
+            "plot3d",
+            "rose",
+            "solar",
+            "subplot",
+            "ternary",
+            "text",
+            "wiggle",
+            "velo",
+            "mgd77track",
+            "coupe",
+            "meca",
+            "polar",
+            "sac"
+        ]
+    },
+    "bi": {
+        "long-option": "",
+        "directives": {
+            "w": ""
+        },
+        "modifiers": {
+            "l": "",
+            "b": ""
+        },
+        "other-modules": [
+            "clip",
+            "events",
+            "fitcircle",
+            "gmt2kml",
+            "gmtbinstats",
+            "gmtinfo",
+            "grdedit",
+            "grdgdal",
+            "grdmask",
+            "histogram",
+            "makecpt",
+            "mask",
+            "nearneighbor",
+            "plot",
+            "plot3d",
+            "rose",
+            "sph2grd",
+            "sphinterpolate",
+            "mgd77manage",
+            "gmtflexure",
+            "grdseeamount",
+            "talwani2d",
+            "talwani3d",
+            "segy2grd",
+            "hotspotteer",
+            "originater",
+            "polespotter",
+            "x2sys_solve",
+            "surface",
+            "ternary",
+            "wiggle",
+            "xyz2grd"
+        ]
+    },
+    "bo": {
+        "long-option": "",
+        "directives": {
+            "w": ""
+        },
+        "modifiers": {
+            "l": "",
+            "b": ""
+        },
+        "other-modules": [
+            "coast",
+            "grd2cpt",
+            "grd2xyz",
+            "grdcontour",
+            "kml2gmt",
+            "solar",
+            "gshhg",
+            "mgd77list",
+            "mgd77sniffer",
+            "x2sys_cross",
+            "x2sys_datalist",
+            "x2sys_list"
+        ]
+    }
+}

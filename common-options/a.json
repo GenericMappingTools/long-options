@@ -1,0 +1,20 @@
+{
+    "a": {
+        "long-option": "",
+        "directives": {},
+        "modifiers": {},
+        "other-modules": [
+            "blockmean",
+            "blockmedian",
+            "blockmode",
+            "fitcircle",
+            "gmtconvert",
+            "gmtinfo",
+            "gmtregress",
+            "grdmath",
+            "plot",
+            "plot3d",
+            "surface"
+        ]
+    }
+}

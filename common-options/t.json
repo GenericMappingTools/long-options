@@ -1,0 +1,41 @@
+{
+    "t": {
+        "long-option": "",
+        "directives": {},
+        "modifiers": {
+            "f": "",
+            "s": ""
+        },
+        "other-modules": [
+            "basemap",
+            "clip",
+            "coast",
+            "colorbar",
+            "contour",
+            "gmtlogo",
+            "grdcontour",
+            "grdimage",
+            "grdvector",
+            "grdview",
+            "histogram",
+            "image",
+            "legend",
+            "mask",
+            "plot",
+            "plot3d",
+            "rose",
+            "solar",
+            "velo",
+            "mgd77track",
+            "segy",
+            "segyz",
+            "coupe",
+            "meca",
+            "polar",
+            "sac",
+            "ternary",
+            "text",
+            "wiggle"
+        ]
+    }
+}

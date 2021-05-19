@@ -1,0 +1,29 @@
+{
+    "l": {
+        "long-option": "",
+        "directives": {},
+        "modifiers": {
+            "D": "",
+            "G": "",
+            "H": "",
+            "L": "",
+            "N": "",
+            "S": "",
+            "V": "",
+            "f": "",
+            "g": "",
+            "j": "",
+            "o": "",
+            "p": "",
+            "s": "",
+            "w": ""
+        },
+        "other-modules": [
+            "contour",
+            "grdcontour",
+            "histogram",
+            "plot",
+            "plot3d"
+        ]
+    }
+}

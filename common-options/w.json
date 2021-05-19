@@ -1,0 +1,48 @@
+{
+    "w": {
+        "long-option": "",
+        "directives": {
+            "y": "",
+            "a": "",
+            "w": "",
+            "d": "",
+            "h": "",
+            "m": "",
+            "s": "",
+            "c": ""
+        },
+        "modifiers": {
+            "c": ""
+        },
+        "other-modules": [
+            "blockmean",
+            "blockmedian",
+            "blockmode",
+            "events",
+            "gmtbinstats",
+            "gmtconvert",
+            "gmtinfo",
+            "gmtmath",
+            "gmtregress",
+            "gmtselect",
+            "grdedit",
+            "grdmask",
+            "grdtrack",
+            "greenspline",
+            "histogram",
+            "mask",
+            "nearneighbor",
+            "plot",
+            "plot3d",
+            "rose",
+            "sample1d",
+            "surface",
+            "text",
+            "trend1d",
+            "trend2d",
+            "triangulate",
+            "wiggle",
+            "xyz2grd"
+        ]
+    }
+}

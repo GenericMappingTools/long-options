@@ -1,0 +1,36 @@
+{
+    "n": {
+        "long-option": "",
+        "directives": {
+            "b": "",
+            "c": "",
+            "l": "",
+            "n": ""
+        },
+        "modifiers": {
+            "a": "",
+            "b": "",
+            "c": "",
+            "t": ""
+        },
+        "other-modules": [
+            "gmtbinstats",
+            "grdblend",
+            "grdgradient",
+            "grdimage",
+            "grdinterpolate",
+            "grdmask",
+            "grdmath",
+            "grdproject",
+            "grdsample",
+            "grdtrack",
+            "grdview",
+            "nearneighbor",
+            "img2grd",
+            "mgd77manage",
+            "mgd77sniffer",
+            "grdredpol",
+            "grdrotater"
+        ]
+    }
+}
