@@ -20,7 +20,7 @@ modules = ['basemap','batch','begin','blockmean','blockmedian','blockmode',
     'project','psconvert','rose','sample1d','solar','spectrum1d','sph2grd',
     'sphdistance','sphinterpolate','sphtriangulate','subplot','surface',
     'ternary','text','trend1d','trend2d','triangulate','wiggle','xyz2grd',
-    'earthtide','gpsgridder','gshhg','velo','img2grd','mgd77convert',
+    'earthtide','gpsgridder','gshhg','velo','img2grd','img2google','mgd77convert',
     'mgd77header','mgd77info','mgd77list','mgd77magref','mgd77manage',
     'mgd77path','mgd77sniffer','mgd77track','gmtflexure','gmtgravmag3d',
     'gravfft','grdflexure','grdgravmag3d','grdredpol','grdseamount','talwani2d',
@@ -47,3 +47,9 @@ module_df = pd.DataFrame(columns=options)
 for module in modules:
     file = 'modules/' + module + '.json'
     module_df = module_df.append(pd.read_json(file, orient='index'))
+
+# Add common options to appropriate modules in DataFrame
+for index in common_df.index:
+    in_modules = common_df.loc[index]['other-modules']
+    for module in in_modules:
+        module_df.loc[module][index] = common_df.loc[index]
