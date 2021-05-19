@@ -1,0 +1,14 @@
+{
+    "x2sys_report": {
+        "module_options": [],
+        "module_needs": [],
+        "module_common": [],
+        "module_other": [],
+        "option": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {},
+            "other-modules": []
+        }
+    }
+}

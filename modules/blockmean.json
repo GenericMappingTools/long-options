@@ -1,0 +1,78 @@
+{
+    "blockmean": {
+        "module_options": ["A","C","E","G","I","S","W"],
+        "module_needs": ["I","R","table"],
+        "module_common": ["R","V","a","b","d","e","f","h","i","o","q","r","w"],
+        "module_other": ["table"],
+        "A": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {},
+            "other-modules": [
+                "blockmedian",
+                "blockmode"
+            ]
+        },
+        "C": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {},
+            "other-modules": [
+                "blockmedian",
+                "blockmode"
+            ]
+        },
+        "E": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {
+                "p": "",
+                "P": ""
+            },
+            "other-modules": [
+                "blockmedian",
+                "blockmode"
+            ]
+        },
+        "G": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {},
+            "other-modules": [
+                "blockmedian",
+                "blockmode"
+            ]
+        },
+        "I": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {
+                "e": "",
+                "n": ""
+            },
+            "other-modules": []
+        },
+        "S": {
+            "long-option": "",
+            "directives": {
+                "m": "",
+                "n": "",
+                "s": "",
+                "w": ""
+            },
+            "modifiers": {},
+            "other-modules": []
+        },
+        "W": {
+            "long-option": "",
+            "directives": {
+                "i": "",
+                "o": ""
+            },
+            "modifiers": {
+                "s": ""
+            },
+            "other-modules": []
+        }
+    }
+}
