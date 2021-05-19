@@ -1,13 +1,72 @@
 {
     "filter1d": {
-        "module_options": [],
-        "module_needs": [],
-        "module_common": [],
-        "module_other": [],
-        "option": {
+        "module_options": ["F","D","E","L","N","Q","S","T"],
+        "module_needs": ["table","F"],
+        "module_common": ["V","b","d","e","f","g","h","i","j","o","q"],
+        "module_other": ["table"],
+        "F": {
+            "long-option": "",
+            "directives": {
+                "b": "",
+                "c": "",
+                "g": "",
+                "f": "",
+                "m": "",
+                "p": "",
+                "l": "",
+                "L": "",
+                "u": "",
+                "U": ""
+            },
+            "modifiers": {
+                "h": ""
+            },
+            "other-modules": []
+        },
+        "D": {
             "long-option": "",
             "directives": {},
             "modifiers": {},
+            "other-modules": []
+        },
+        "E": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {},
+            "other-modules": []
+        },
+        "L": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {},
+            "other-modules": []
+        },
+        "N": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {},
+            "other-modules": []
+        },
+        "Q": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {},
+            "other-modules": []
+        },
+        "S": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {},
+            "other-modules": []
+        },
+        "T": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {
+                "a": "",
+                "e": "",
+                "n": ""
+            },
             "other-modules": []
         }
     }
