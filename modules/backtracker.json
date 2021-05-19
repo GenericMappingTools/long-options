@@ -1,12 +1,81 @@
 {
     "backtracker": {
-        "module_options": [],
-        "module_needs": [],
-        "module_common": [],
-        "module_other": [],
-        "option": {
+        "module_options": ["E","A","D","F","L","M","N","Q","S","T","W"],
+        "module_needs": ["table","E"],
+        "module_common": ["V","W","b","d","e","h","i","o","q"],
+        "module_other": ["table"],
+        "E": {
             "long-option": "",
             "directives": {},
+            "modifiers": {},
+            "other-modules": []
+        },
+        "A": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {},
+            "other-modules": []
+        },
+        "D": {
+            "long-option": "",
+            "directives": {
+                "f": "",
+                "b": ""
+            },
+            "modifiers": {},
+            "other-modules": []
+        },
+        "F": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {},
+            "other-modules": []
+        },
+        "L": {
+            "long-option": "",
+            "directives": {
+                "f": "",
+                "b": ""
+            },
+            "modifiers": {},
+            "other-modules": []
+        },
+        "M": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {},
+            "other-modules": []
+        },
+        "N": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {},
+            "other-modules": []
+        },
+        "Q": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {},
+            "other-modules": []
+        },
+        "S": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {},
+            "other-modules": []
+        },
+        "T": {
+            "long-option": "",
+            "directives": {},
+            "modifiers": {},
+            "other-modules": []
+        },
+        "W": {
+            "long-option": "",
+            "directives": {
+                "a": "",
+                "t": ""
+            },
             "modifiers": {},
             "other-modules": []
         }
